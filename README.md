@@ -1,6 +1,6 @@
 # Codewars Practice
 
-Solutions to coding challenges (kata) from [Codewars](https://www.codewars.com/), solved in Python using Jupyter notebooks.
+Solutions to coding challenges (kata) from [Codewrs](https://www.codewars.com/), solved in Python using Jupyter notebooks.
 
 ## About this repository
 
