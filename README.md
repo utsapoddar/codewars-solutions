@@ -27,4 +27,5 @@ I'm continuously adding new solutions as I practice more katas. Feel free to for
 
 ---
 
-**Note:** Codewars user badges are not displayed here to keep the focus on the solutions. If you'd like to track your own progress, you can obtain your badge from your Codewars profile.
+**Note:** Codewars user badges are not displayed here to keep the focus on the solutions. If you'd like to track 
+<!-- Minor formatting update -->your own progress, you can obtain your badge from your Codewars profile.
