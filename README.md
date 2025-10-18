@@ -31,4 +31,4 @@ I'm continuously adding new solutions as I practice more katas. Feel free to for
 
 <!-- minor update --
 <!-- micro tweak >>
-Minor formatting update -->your own progress, you can obtain your badge from your Codewars profile.
+Minor formatting update -->your own progress, you can obtain your badge from your Codewars profile
